@@ -150,4 +150,4 @@ while(player):
 ## RESULT
 
 Thus the program to solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic has been executed succesfully.
-](https://github.com/ksrekha3/Ex-9--Solve-Wumpus-World-Problem-using-Python-demonstrating-Inferences-from-Propositional-Logic)
+
